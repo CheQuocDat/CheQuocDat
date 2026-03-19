@@ -3,7 +3,7 @@
 <h3 align="center">Frontend Developer • UI Lover • Clean Code</h3>
 
 <p align="center">
- <img src="./images/avt-CV.jpg" width="100%" style="border-radius:50%" />
+  <img src="./images/avt-CV.png" width="140" style="border-radius:50%" />
 </p>
 
 <p align="center">
