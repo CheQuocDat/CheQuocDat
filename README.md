@@ -2,17 +2,14 @@
 
 <div align="center">
 
-  <!-- 🐉 Dragon Banner -->
-  <img src="./images/dragon-banner.png" width="100%" alt="Dragon Banner" />
-
-  <!-- Avatar overlapping the banner -->
-  <img src="./images/avt-CV.png" width="150" style="border-radius: 50%; margin-top: -75px;" alt="Chế Quốc Đạt" />
+  <img src="./images/avt-CV.png" width="150" style="border-radius: 50%;" alt="Chế Quốc Đạt" />
 
   # Chế Quốc Đạt
 
   **Frontend Developer &nbsp;·&nbsp; UI/UX Focused &nbsp;·&nbsp; Clean Code**
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Building+Modern+Web+Interfaces;React+%7C+Next.js+%7C+TypeScript;Pixel-Perfect+%26+Performance+Driven;%F0%9F%90%89+Dragon+Energy+Developer" alt="Typing SVG" />
+  Building fast, responsive, and pixel-perfect web interfaces with **React** & **Next.js**.  
+  Passionate about great user experiences, modern design, and maintainable code.
 
   <br/>
 
@@ -28,11 +25,22 @@
 
 ## 🧑‍💻 &nbsp;About Me
 
+<table>
+  <tr>
+    <td>
+
 - 🖥️ &nbsp;**Frontend Developer** specializing in **React** and **Next.js**
 - 🎨 &nbsp;Focused on **responsive design**, reusable components, and clean UI
 - ⚡ &nbsp;Care deeply about **performance**, accessibility, and user experience
 - 🧱 &nbsp;Advocate for **clean architecture** and maintainable codebases
 - 📚 &nbsp;Continuously exploring modern frontend tools and best practices
+
+  </td>
+    <td width="300" align="center">
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="Coding GIF" />
+    </td>
+  </tr>
+</table>
 
 <br/>
 
