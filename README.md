@@ -66,9 +66,13 @@
 <table>
   <tr>
     <td width="50%">
-      <h3>🎬 &nbsp;Movie Booking Platform</h3>
-      <p>Interactive seat-selection UI with real-time availability, responsive layout, and smooth booking flow.</p>
-      <p><code>React</code> <code>Node.js</code> <code>REST API</code> <code>Responsive UI</code></p>
+      <h3>💖 &nbsp;HopeFund — Charity Donation Platform</h3>
+      <p>A full-stack charity donation platform with secure authentication, real-time donation tracking, and a ranking system based on user contributions.</p>
+      <p><code>React</code> <code>Tailwind CSS</code> <code>Node.js</code> <code>Express</code> <code>MySQL</code></p>
+      <p>
+        <a href="https://hopefund-26.vercel.app/">🔗 Live Demo</a> &nbsp;·&nbsp;
+        <a href="https://github.com/DevTNoHope/NNM_Project">📂 GitHub</a>
+      </p>
     </td>
     <td width="50%">
       <h3>🏨 &nbsp;Hotel Reservation System</h3>
